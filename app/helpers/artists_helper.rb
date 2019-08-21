@@ -4,7 +4,7 @@ module ArtistsHelper
   end
 
 
-  def artist-select(artist,song)
+  def artist_select(artist)
 
   end
 end
